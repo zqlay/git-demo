@@ -1,4 +1,4 @@
 hello Git
 hello git
-hello git
+hello git master text
 hello Git
