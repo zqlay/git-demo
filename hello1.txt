@@ -1,4 +1,4 @@
 hello Git
 hello git
-hello git
-hello Git
+hello git 
+hello Git hot-fix text
